@@ -2,6 +2,9 @@
 A collection of hats and faces available with the hard work of Creta5164
 
 Images of some of the hats attached, all made by me
+
+
+
 <img width="310" height="369" alt="Screenshot 2025-07-29 201114" src="https://github.com/user-attachments/assets/1a017a52-45e0-4b86-832e-06c0fb540d51" />
 <img width="349" height="405" alt="Screenshot 2025-07-29 220621" src="https://github.com/user-attachments/assets/e75ca724-676a-4921-b7f0-f8ea7bc173ce" />
 <img width="323" height="426" alt="Screenshot 2025-07-29 220617" src="https://github.com/user-attachments/assets/2f609f8f-2758-42a5-b3d3-6490d95e244d" />
@@ -19,6 +22,8 @@ Images of some of the hats attached, all made by me
 
 
 Oh and Sonic.
+
+
 <img width="606" height="655" alt="Screenshot 2025-07-31 212457" src="https://github.com/user-attachments/assets/d1f30c5c-87d0-4812-93e7-66269a589f68" />
 <img width="451" height="400" alt="Screenshot 2025-07-31 185350" src="https://github.com/user-attachments/assets/1fdf09d1-0aac-4789-a4ec-ae92ccc97af5" />
 <img width="489" height="459" alt="Screenshot 2025-07-31 185342" src="https://github.com/user-attachments/assets/ae2d01b3-dfe8-4ac2-b0a9-0764f6307a9a" />
