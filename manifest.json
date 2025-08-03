@@ -1,6 +1,6 @@
 {
     "name": "Another_Hat_Mod",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "",
     "description": "A collection of hats and faces available with the hard work of Creta5164",
     "dependencies": [
@@ -8,4 +8,5 @@
         "Radsi2-PassporPagination-1.0.0",
 		"cretapark-More_Customizations-1.1.1"
     ]
+
 }
