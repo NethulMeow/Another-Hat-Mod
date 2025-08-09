@@ -4,6 +4,10 @@ A collection of hats and faces available with the hard work of Creta5164
 Images of some of the hats attached, all made by me
 
 
+3 empty faces
+extra eye mouth and accessories + all these hats! and even more!
+
+
 
 <img width="310" height="369" alt="Screenshot 2025-07-29 201114" src="https://github.com/user-attachments/assets/1a017a52-45e0-4b86-832e-06c0fb540d51" />
 <img width="349" height="405" alt="Screenshot 2025-07-29 220621" src="https://github.com/user-attachments/assets/e75ca724-676a-4921-b7f0-f8ea7bc173ce" />
@@ -21,7 +25,8 @@ Images of some of the hats attached, all made by me
 
 
 
-Oh and Sonic.
+Oh and Sonic. 
+  +Recolours for Tails Knuckles and shadow.
 
 
 <img width="606" height="655" alt="Screenshot 2025-07-31 212457" src="https://github.com/user-attachments/assets/d1f30c5c-87d0-4812-93e7-66269a589f68" />
